@@ -2,82 +2,18 @@
 
 # 你好，我是 Duoasa
 
-也可以叫我许晨晨。
+**AI 原生产品设计师 · 以设计驱动产品构建**
 
-我拥有计算机专业背景，以及五年多 UI/UX 和产品设计经验。
+拥有计算机专业背景和五年多 UI/UX 与产品设计经验。我结合设计、产品思维与 AI，将想法变成可以实际使用的产品，关注人与 Agent 的交互，以及桌面工具的体验。
 
-这是比较职业化的说法。如果让我自己介绍，我其实只是一个很喜欢把东西做出来的人。
+[作品集与产品](https://design.duoasa.com/)
 
-## 我是怎么走到这里的
+## 项目介绍
 
-在知道 UI、UX 这些词之前，我就很喜欢画画、拆东西、做模型，再按照自己的想法把它们重新组合起来。
-
-初中的时候，我经常在英语课本上画军舰。吸引我的不只是外形，而是那些复杂结构形成的秩序：舰体、舰桥、雷达、桅杆、甲板和各种功能模块组合在一起，最后成为一套复杂但清晰，而且真的能够工作的系统。
-
-这种兴趣后来一直没有消失。
-
-小时候，我使用的是纸、笔、模型和各种零件。成为设计师以后，工具变成了 Sketch 和 Figma。现在，我越来越多地使用 AI Agent、代码和真实的软件运行环境。
-
-工具变了，但我做的事情其实没有变：从一个想法开始，想办法把它做出来。
-
-## 从设计走进真实产品
-
-我大学学的是计算机科学与技术，但后来没有走传统的软件工程师路线，工作重心逐渐转向了 UI/UX 和产品设计。
-
-这些年里，设计成为了我最熟悉的专业能力。我学习怎样处理界面、交互、信息结构、视觉系统和产品流程，也逐渐意识到，产品并不只是很多界面的集合。每一个界面背后，都在决定什么是重要的、事情应该怎样发生，以及用户需要理解什么。
-
-我不会把自己包装成软件工程师。但计算机背景让我能够理解系统、数据、状态、API 和软件行为背后的基本逻辑。
-
-AI 的出现，把这两部分重新接到了一起。
-
-过去，我更多是在描述一个产品应该怎样工作。现在，我可以直接进入代码库，先做出一个能运行的版本，自己用一遍，看看哪里不对，再继续修改。
-
-需要精确处理视觉问题时，我依然会使用 Figma。只是现在，一个产品不必先在 Figma 里被完整画出来，才能开始构建。
-
-我的工作过程通常是：
-
-想象 → 构建 → 运行 → 观察 → 判断 → 迭代
-
-真正运行的软件本身，也开始成为设计发生的地方。
-
-## 我怎么看设计
-
-我的审美长期受到 Bauhaus、Braun、Sony、Apple、UniFi 等设计和产品体系的影响。我喜欢它们身上那种功能、结构、秩序、精确，以及工程本身形成的美感。
-
-但我并不认为所有东西都应该追求极简。
-
-简单的问题，不应该被设计得没有必要地复杂。真正复杂的问题，也不应该只为了让界面看起来干净，就被强行删减。
-
-有些复杂性就是需要存在。设计师要做的不是一味消灭它，而是先理解它，再把它组织清楚。
-
-所以相比 Minimalism，我更在意 Appropriateness，也就是“恰当”。
-
-我喜欢的设计，不是让人感叹设计师有多聪明，而是让人真正使用以后觉得：它本来就应该这样工作。
-
-Nothing arbitrary. Everything with a reason.
-
-## 我正在做的东西
-
-[QuotaView](https://github.com/Duoasa/QuotaView) 最初只是一个查看 Codex 使用量和额度的 macOS 小工具。做着做着，它逐渐变成了我对 Human-Agent Interaction 和 Agent Observability 的探索：怎样让人理解 Agent 的状态、活动、进度和限制，同时又不需要一直盯着它。
-
-[DeepViewer](https://github.com/Duoasa/DeepViewer) 从另一个方向探索同一个问题。它建立在 DeepSeek Harness 之上，尝试回答一个以 AI Agent 为中心的桌面工作空间应该是什么样子，以及文件、代码、预览、工具、生成结果、Agent 和人的操作应该怎样被组织到一起。
-
-[Duoasa Design](https://github.com/Duoasa/Duoasa-Design) 最初只是我的 UI/UX 作品集。现在，它正在逐渐变成我的个人产品中心，用来承载我正在构建的产品、实验，以及那些还没有完全想明白的问题。
-
-我也开始把项目里反复出现的经验整理成可以复用的 Agent Skills，例如 [how-to-make-application](https://github.com/Duoasa/how-to-make-application) 和 [interactive-component-integration](https://github.com/Duoasa/interactive-component-integration)。
-
-我不只想解决眼前这一次的问题，也想知道这次形成的判断能不能变成下一次可以复用的规则，让 AI 能够理解和执行，同时又不把人的品味和判断从创造过程中拿掉。
-
-## 我现在的位置
-
-AI-Native Product Designer 和 Design-led Builder，是目前比较接近我的两个说法。
-
-设计是我最成熟的专业能力，计算机科学是我的技术底座，产品思维帮助我判断应该造什么，AI 则扩大了我能够亲手造出来的范围。
-
-相比给自己增加更多职业标签，我更关心的是，自己从一个想法走到真实产品的距离能不能继续变长。
-
-能不能定义问题，想象一种不同的答案，设计它、做出它，把它交给真实用户，再从现实里发现原来的判断哪里不对，然后继续修改。
-
-说到底，我还是那个喜欢造东西的人。
-
-只是现在使用的材料不一样了。
+| 项目 | 简介 |
+| --- | --- |
+| [QuotaView](https://github.com/Duoasa/QuotaView) | 面向多 Agent 的 macOS 灵动岛，集中查看任务进度、Token 用量与额度，并处理支持的审批操作。 |
+| [DeepViewer](https://github.com/Duoasa/DeepViewer) | 基于 DeepSeek Harness 的可定制可视化 Agent 工作空间，将文件、代码、预览与工具整合在一起。 |
+| [DSH-to-Figma](https://github.com/Duoasa/DSH-to-Figma) | 连接 DeepSeek Harness 与 Figma，让 Agent 直接操作可编辑图层、组件与变量，并获取设计上下文、素材和截图。 |
+| [Duoasa Design](https://github.com/Duoasa/Duoasa-Design) | 用 AI 辅助构建的个人作品集与产品中心，展示设计作品、独立产品和交互实验。 |
+| [interactive-component-integration](https://github.com/Duoasa/interactive-component-integration) | 面向 Codex 与 DSH 的交互组件集成 Skill，帮助 Agent 忠实还原 Canvas、WebGL、着色器及滚动、指针交互效果。 |
