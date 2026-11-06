@@ -17,3 +17,10 @@ I have a background in computer science and over five years of experience in UI/
 | [DSH-to-Figma](https://github.com/Duoasa/DSH-to-Figma) | Connects DeepSeek Harness with Figma so agents can work directly with editable layers, components, and variables, and access design context, assets, and screenshots. |
 | [Duoasa Design](https://github.com/Duoasa/Duoasa-Design) | My portfolio and product hub, built with AI assistance to showcase design work, independent products, and interaction experiments. |
 | [interactive-component-integration](https://github.com/Duoasa/interactive-component-integration) | An interaction component integration Skill for Codex and DSH, helping agents faithfully reproduce Canvas, WebGL, shaders, and scroll and pointer effects. |
+
+<a href="https://ghfind.com/u/duoasa?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/duoasa?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/duoasa?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>

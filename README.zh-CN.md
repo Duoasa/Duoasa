@@ -17,3 +17,10 @@
 | [DSH-to-Figma](https://github.com/Duoasa/DSH-to-Figma) | 连接 DeepSeek Harness 与 Figma，让 Agent 直接操作可编辑图层、组件与变量，并获取设计上下文、素材和截图。 |
 | [Duoasa Design](https://github.com/Duoasa/Duoasa-Design) | 用 AI 辅助构建的个人作品集与产品中心，展示设计作品、独立产品和交互实验。 |
 | [interactive-component-integration](https://github.com/Duoasa/interactive-component-integration) | 面向 Codex 与 DSH 的交互组件集成 Skill，帮助 Agent 忠实还原 Canvas、WebGL、着色器及滚动、指针交互效果。 |
+
+<a href="https://ghfind.com/u/duoasa?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/duoasa?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/duoasa?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
